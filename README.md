@@ -3,4 +3,4 @@ CMOS Layout Designs by [Swaroop Kumar Yadav](https://www.linkedin.com/in/swaroop
 
 **Table of Contents**
 =================
-1. [NAND_GATE](CMOS_Layout_Designing/NAND_GATE)
+1. [NAND_GATE](https://s2sofficial.github.io/CMOS_Layout_Designing/NAND_GATE/)
